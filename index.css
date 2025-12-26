@@ -1,0 +1,119 @@
+*{ margin: 0%; padding: 0%;}
+body{background-image: url(https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg?cs=srgb&dl=pexels-joshsorenson-1714205.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+   
+    
+}
+
+.sedna{ text-decoration: none;
+text-transform: uppercase;
+color: aliceblue;
+letter-spacing: 3px;
+}
+
+
+.title1{ display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+
+
+
+.div1 a {text-decoration: none;
+    text-transform: uppercase;
+    color: aliceblue;
+    margin: 10px;
+    font-size: 12px;
+
+}
+
+header{ display: flex;
+justify-content: space-between;
+align-items: center;
+width: 90%;
+height: 80px;
+margin: auto;
+border-bottom: 2px gray solid;
+}
+.b1{border: 0px;
+    background-color: transparent;
+    color: aliceblue;
+    font-size: 13px;
+    text-transform: uppercase;
+    width:110px ;
+    height: 30px;
+
+}
+
+.b2{ color: aliceblue;
+border-radius:25px;
+border: 2px whitesmoke solid;
+background: transparent; 
+text-transform: uppercase;
+width: 110px;
+height: 30px;
+}
+
+
+main{
+color: aliceblue;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+height: 900px;
+line-height: 60px;
+}
+.p1{font-size: 45px}
+    
+
+.b12{
+    width:320px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.d1{ border-radius: 15px;
+    height: 30px;
+    width: 150px;
+    text-transform: uppercase;
+    background-color: hotpink;
+    border: 1px hotpink solid;
+    color: aliceblue;
+
+}
+.l2{border-radius: 15px;
+    height: 30px;
+    width: 150px;
+    text-transform: uppercase;
+    border: 1px hotpink solid;
+    background: transparent;
+    color: hotpink;
+
+
+}
+.lawn{ background-color:rgba(255, 255, 255, 0.3) ;
+
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
